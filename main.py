@@ -5,9 +5,7 @@ set_website_title("Car Finder")
 set_site_information(
     author="Jacob League",
     description="Search for cars and filter results.",
-    sources="https://chatgpt.com/share/6af6207e-aa38-83e8-8101-4f9b4150487e, 
-https://chatgpt.com/share/6af634b2-db64-83e9-9275-bdcde77422e7
-",
+    sources="https://chatgpt.com/share/6af6207e-aa38-83e8-8101-4f9b4150487e, https://chatgpt.com/share/6af634b2-db64-83e9-9275-bdcde77422e7",
     planning=["Final Project 0_ Pick a Problem.pdf", "Copy of CS1 Final Project 1_ Design.pdf"],
     links=["https://github.com/jacob-league/car-finder"]
 )
